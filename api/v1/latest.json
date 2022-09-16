@@ -7,9 +7,9 @@
 		"changelog": "- New work from the last commit in TeamVanced/VancedManager \n- Made all changelogs visible in the Commit History \n- App signature changed"
 	},
   	"vanced": {
-    "version": "17.33.43",
+    "version": "17.35.35",
     "versionCode": 1531188672,
-    "themes": ["dark", "black"],
+    "themes": ["black"],
     "langs": [
       "af",
       "am",
