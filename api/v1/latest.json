@@ -23,6 +23,6 @@
 		"version": "0.2.24.220220",
 		"versionCode": 220220001,
 		"url": "https://github.com/TeamVanced/VancedMicroG/releases/latest/download/microg.apk",
-		"changelog": "- Updated libs and upstream to 2022/08/22\n- Removed some unused resources\n- App signature changed"
+		"changelog": "- Microg usado pelo revanced\n- Mantido por TeamVanced"
 	}
 }
