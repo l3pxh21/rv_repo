@@ -1,17 +1,17 @@
 {
   "is_microg_broken": false,
   "manager": {
-    "version": "2.6.4",
-    "versionCode": 220722,
-    "url": "https://github.com/inotia00/VancedManager/releases/latest/download/manager.apk",
+    "version": "0.0.1",
+    "versionCode": 220918,
+    "url": "https://github.com/l3pxh21/nexus-manager/releases/latest/download/nexus.apk",
     "changelog": "- New work from the last commit in TeamVanced/VancedManager \n- Made all changelogs visible in the Commit History \n- App signature changed"
   },
   "vanced": {
-    "version": "17.35.35",
+    "version": "17.33.43",
     "versionCode": 1531188672,
-    "themes": ["black"],
+    "themes": ["dark", "black"],
     "langs": ["pt"],
-    "changelog": "Final Build / Hotfix \n\n- Bumped base \n- Bugfix: Unplayable video issue that some people living in India and UK are experiencing \n- Bugfix: Trying trySetDislikes even when OldLayout is not on, causing performance degradation \n- Bugfix: The function to remove the Download button in Button Container (Experimental) does not work in the new interface. \n- Change voting button resource \n- Code optimization \n\nKNOWN ISSUES: \n- Ads still showing on some devices \n- RYD not working on new interface\n- HDR Brightness setting not working on some devices"
+    "changelog": "Nova Atualização :) \n\n- Nova base \n- Bugfix: Unplayable video issue that some people living in India and UK are experiencing \n- Bugfix: Trying trySetDislikes even when OldLayout is not on, causing performance degradation \n- Bugfix: The function to remove the Download button in Button Container (Experimental) does not work in the new interface. \n- Change voting button resource \n- Code optimization \n\nKNOWN ISSUES: \n- Ads still showing on some devices \n- RYD not working on new interface\n- HDR Brightness setting not working on some devices"
   },
   "music": {
     "version": "5.22.54",
