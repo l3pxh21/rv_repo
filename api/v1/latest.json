@@ -11,7 +11,7 @@
     "versionCode": 1531571648,
     "themes": ["dark", "black"],
     "langs": ["pt"],
-    "changelog": "Nova Atualização :) \n\n- Nova base 17.36.37 \n- Bugfix: Unplayable video issue that some people living in India and UK are experiencing \n- Bugfix: Trying trySetDislikes even when OldLayout is not on, causing performance degradation \n- Bugfix: The function to remove the Download button in Button Container (Experimental) does not work in the new interface. \n- Change voting button resource \n- Code optimization \n\nKNOWN ISSUES: \n- Ads still showing on some devices \n- RYD not working on new interface\n- HDR Brightness setting not working on some devices"
+    "changelog": "Nova Atualização :) \n\n- Nova base 17.36.37 \n- Variação entre os temas escuro e preto (escolher dentro do manager) \n- Bugfix: Trying trySetDislikes even when OldLayout is not on, causing performance degradation \n- Bugfix: The function to remove the Download button in Button Container (Experimental) does not work in the new interface. \n- Change voting button resource \n- Code optimization \n\nKNOWN ISSUES: \n- Ads still showing on some devices \n- RYD not working on new interface\n- HDR Brightness setting not working on some devices"
   },
   "music": {
     "version": "5.23.50",
