@@ -3,7 +3,7 @@
   "manager": {
     "version": "0.0.2",
     "versionCode": 220919,
-    "url": "https://github.com/l3pxh21/nexus-manager/releases/latest/download/nexus.apk",
+    "url": "https://github.com/l3pxh21/nexus-manager/releases/latest/download/manager.apk",
     "changelog": "- New work from the last commit in TeamVanced/VancedManager \n- Made all changelogs visible in the Commit History \n- App signature changed"
   },
   "vanced": {
