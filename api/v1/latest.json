@@ -14,8 +14,8 @@
     "changelog": "Nova Atualização :) \n\n- Nova base \n- Bugfix: Unplayable video issue that some people living in India and UK are experiencing \n- Bugfix: Trying trySetDislikes even when OldLayout is not on, causing performance degradation \n- Bugfix: The function to remove the Download button in Button Container (Experimental) does not work in the new interface. \n- Change voting button resource \n- Code optimization \n\nKNOWN ISSUES: \n- Ads still showing on some devices \n- RYD not working on new interface\n- HDR Brightness setting not working on some devices"
   },
   "music": {
-    "version": "5.22.54",
-    "versionCode": 52254240,
+    "version": "5.23.50",
+    "versionCode": 52350230,
     "changelog": "- Bumped base \n- Fix installation errors for other architectures except arm64-v8a \n- Added Cast button toggle and Codecs Unlock toggle in Vanced Settings"
   },
   "microg": {
