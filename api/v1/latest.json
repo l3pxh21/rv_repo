@@ -23,5 +23,11 @@
     "versionCode": 220220001,
     "url": "https://github.com/TeamVanced/VancedMicroG/releases/latest/download/microg.apk",
     "changelog": "— Microg usado pelo revanced. \n— Mantido por TeamVanced."
+  },
+  "legacy": {
+    "version": "5.0.3",
+    "versionCode": 174,
+    "url": "https://github.com/l3pxh21/legacyplus/releases/latest/download/legacy.apk",
+    "changelog": "Nova Atualização para você :) \n\n— Recursos premium desbloqueados.\n— Otimização do codigo\n— Tradução para o português\n— Tutorial de uso incluso no app"
   }
 }
