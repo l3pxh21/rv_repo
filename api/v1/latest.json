@@ -1,8 +1,8 @@
 {
   "is_microg_broken": false,
   "manager": {
-    "version": "0.0.3",
-    "versionCode": 220920,
+    "version": "0.0.4",
+    "versionCode": 220921,
     "url": "https://github.com/l3pxh21/nexus-manager/releases/latest/download/manager.apk",
     "changelog": "— Bugs e melhorias dentro do aplicativo! \n— Se encontrar bugs, reporte para o l3pxh21."
   },
