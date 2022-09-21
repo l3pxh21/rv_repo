@@ -1,8 +1,8 @@
 {
   "is_microg_broken": false,
   "manager": {
-    "version": "0.0.4",
-    "versionCode": 220921,
+    "version": "0.0.5",
+    "versionCode": 220922,
     "url": "https://github.com/l3pxh21/nexus-manager/releases/latest/download/manager.apk",
     "changelog": "— Novo tema. \n— LegacyPlus adicionado. \n— Se encontrar bugs, reporte para o l3pxh21."
   },
