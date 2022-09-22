@@ -29,5 +29,11 @@
     "versionCode": 174,
     "url": "https://github.com/l3pxh21/legacyplus/releases/latest/download/legacy.apk",
     "changelog": "Nova Atualização para você :) \n\n— Recursos premium desbloqueados.\n— Otimização do codigo\n— Tradução para o português\n— Tutorial de uso incluso no app"
+  },
+  "newpipe": {
+    "version": "0.23.3",
+    "versionCode": 989,
+    "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.23.3/NewPipe_v0.23.3.apk",
+    "changelog": "Nova Atualização para você :) \n\n— Recursos premium desbloqueados.\n— Otimização do codigo\n— Tradução para o português\n— Tutorial de uso incluso no app"
   }
 }
