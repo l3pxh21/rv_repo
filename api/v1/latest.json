@@ -7,11 +7,11 @@
     "changelog": "— Novo tema. \n— LegacyPlus adicionado. \n— Se encontrar bugs, reporte para o l3pxh21."
   },
   "vanced": {
-    "version": "17.36.37",
-    "versionCode": 1531571648,
+    "version": "17.38.35",
+    "versionCode": 1531829696,
     "themes": ["dark", "black"],
     "langs": ["pt"],
-    "changelog": "Nova Atualização para você! :) \n\n— Nova base 17.36.37. \n— Variação entre os temas: escuro e preto (escolher dentro do manager). \n— Tradução 100% feita (finalmente T-T). \n— Bugs corrigidos: Ads aparecendo na interface (se aparecer para você, limpe o armazenamento do revanced e do microg). \n— Nota: Se você clicar no botão de download (dentro do vídeo) e aparecer a mensagem (org.schabi.newpipe is not installed), baixe o newpipe ou o legacyplus e coloque, vá nas configurações de download dentro do menu do revanced e mude o nome do pacote para o desejado (caso tenha dúvidas, mande mensagem no grupo)."
+    "changelog": "Nova Atualização para você! :) \n\n— Nova base 17.38.35 (experimental). \n— Novo layout das configurações. \n— Novos patchs e recursos. \n— Bugs conhecidos: Em alguns aparelhos, os ads ainda estão aparecendo, será corrigido na próxima atualização. \n— Bugs corrigidos: Ads aparecendo na interface (se aparecer para você, limpe o armazenamento do revanced e do microg). \n— Nota: Se você clicar no botão de download (dentro do vídeo) e aparecer a mensagem (org.schabi.newpipe is not installed), baixe o newpipe ou o legacyplus e coloque, vá nas configurações de download dentro do menu do revanced e mude o nome do pacote para o desejado (caso tenha dúvidas, mande mensagem no grupo)."
   },
   "music": {
     "version": "5.23.50",
