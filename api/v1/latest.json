@@ -31,9 +31,9 @@
     "changelog": "Nova Atualização para você :) \n\n— Recursos premium desbloqueados.\n— Otimização do codigo.\n— Tradução para o português.\n— Tutorial de uso incluso no app."
   },
   "newpipe": {
-    "version": "0.23.3",
-    "versionCode": 989,
-    "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.23.3/NewPipe_v0.23.3.apk",
+    "version": "0.24.0",
+    "versionCode": 990,
+    "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.24.0/NewPipe_v0.24.0.apk",
     "changelog": "— Gerenciador de Downloads.\n— Versão incial no manager.\n— Mantido por: Team NewPipe."
   },
   "snaptube": {
