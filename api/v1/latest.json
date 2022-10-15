@@ -14,9 +14,9 @@
     "changelog": "Nova Atualização para você! :) \n\n— Nova base 17.40.40. \n— Novo layout das configurações. \n— Novos patchs e recursos. \n— Bugs corrigidos: Ads aparecendo na interface (se aparecer para você, limpe o armazenamento do revanced e do microg). \n— Nota: Se você clicar no botão de download (dentro do vídeo) e aparecer a mensagem (org.schabi.newpipe is not installed), baixe o newpipe ou o legacyplus, vá nas configurações de download dentro do menu do revanced e mude o nome do pacote para o desejado (caso tenha dúvidas, digite #pacote-download no grupo)."
   },
   "music": {
-    "version": "5.23.50",
-    "versionCode": 52350230,
-    "changelog": "Nova Atualização para você :) \n\n— Nova base 5.23.50.\n— Bugs corrigidos."
+    "version": "5.26.52",
+    "versionCode": 52652230,
+    "changelog": "Nova Atualização para você :) \n\n— Nova base 5.26.52.\n— Bugs corrigidos."
   },
   "microg": {
     "version": "0.2.24.220220",
