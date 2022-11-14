@@ -7,16 +7,16 @@
     "changelog": "— Novo tema. \n— Bugs corrigidos. \n— Se encontrar bugs, reporte para o l3pxh21."
   },
   "vanced": {
-    "version": "17.43.36",
-    "versionCode": 1532487104,
+    "version": "17.44.34",
+    "versionCode": 1532614080,
     "themes": ["dark", "black"],
     "langs": ["pt"],
-    "changelog": "Nova Atualização para você! :) \n\n— Nova base 17.43.36. \n— Correção de bugs e melhorias. \n— Novos recursos experimentais. \n— Nota: Se você clicar no botão de download (dentro do vídeo) e aparecer a mensagem (org.schabi.newpipe is not installed), baixe o newpipe ou o legacyplus, vá nas configurações de download dentro do menu do revanced e mude o nome do pacote para o desejado (caso tenha dúvidas, digite #pacote-download no grupo)."
+    "changelog": "Nova Atualização para você! :) \n\n— Nova base 17.44.34. \n— Correção de bugs e melhorias. \n— Novos recursos experimentais. \n— Nota: Se você clicar no botão de download (dentro do vídeo) e aparecer a mensagem (org.schabi.newpipe is not installed), baixe o newpipe ou o legacyplus, vá nas configurações de download dentro do menu do revanced e mude o nome do pacote para o desejado (caso tenha dúvidas, digite #pacote-download no grupo)."
   },
   "music": {
-    "version": "5.29.52",
-    "versionCode": 52952230,
-    "changelog": "Nova Atualização para você :) \n\n— Nova base 5.29.52.\n— Bugs corrigidos."
+    "version": "5.31.50",
+    "versionCode": 53150230,
+    "changelog": "Nova Atualização para você :) \n\n— Nova base 5.31.50.\n— Bugs corrigidos."
   },
   "microg": {
     "version": "0.2.24.220220",
